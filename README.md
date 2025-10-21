@@ -12,8 +12,7 @@ Rápido, fácil y potente. Todo lo que necesitas para tomar órdenes, controlar 
 
 <div align="center">
 
-[![Descargar RebootExpress](https://img.shields.io/badge/DESCARGAR-Setup.exe-blue?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/bysilva/FastOrders-Releases/releases/latest/download/RebootExpressSetup.exe
-.exe)
+[![Descargar RebootExpress](https://img.shields.io/badge/DESCARGAR-Setup.exe-blue?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/bysilva/FastOrders-Releases/releases/latest/download/RebootExpressSetup.exe)
 
 **Versión actual: 1.0.0** | Windows 10/11
 
